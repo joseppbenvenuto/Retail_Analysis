@@ -1,6 +1,6 @@
 # Retail Analysis
 
-The analysis looked to perform univariate, bivariate, and multivariate analysis to gain a better understanding of what was happening in the retailer's economics regarding customer attributes and transactions.
+The analysis looked to perform univariate, bivariate, and multivariate analysis to gain a better understanding of the retailer's economics regarding customer attributes and transactions.
 
 The target segments of the analysis were the different shopping channels and value-type customers. 
 
