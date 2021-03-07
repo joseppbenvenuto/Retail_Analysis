@@ -31,7 +31,7 @@ The target segments of the analysis were the different shopping channels and val
 2. Can a sticky environment be created to generate consistent numbers like Multi-Channel but at the same time maintain the high number of Online only shopping? 
 3. Can a sticky environment be created for consumers by moving consumers to a Multi-Channel format but at the same time maintain the high number or increase the Online only shopping in pursuit of the higher margins? 
 
-### Dashboard
+### Dashboards
 
 **Univariate & Bivariate Dashboard**:
 
